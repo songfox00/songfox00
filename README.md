@@ -8,3 +8,4 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={songfox00})](https://solved.ac/{songfox00})
+[![http://mazassumnida.wtf/api/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/generate_badge?boj=songfox00)](https://solved.ac/songfox00)

@@ -9,5 +9,9 @@
 - Vice-president of Algos(2020.4 ~ )
 - Management staff of SMUPC(2021)
 - GDSC Sookmyung Core Member(2021.9~2022.7)
+
+### Skills
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 #
 [![http://mazassumnida.wtf/api/v2/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/v2/generate_badge?boj=songfox00)](https://solved.ac/songfox00)

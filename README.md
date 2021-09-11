@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C, java, python, C++
+- 🌱 I’m currently learning ```C++```, ```React```
 - 📫 How to reach me: songfox00@gmail.com
 
 ### Activity

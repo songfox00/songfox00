@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ```C++```, ```React```
+- 🌱 I’m currently learning ```C++```, ```React```, ```Android```
 - 📫 How to reach me: songfox00@gmail.com
 
 ### Activity
@@ -11,7 +11,8 @@
 - GDSC Sookmyung Core Member(2021.9~2022.7)
 
 ### Skills
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+
 
 #
 [![http://mazassumnida.wtf/api/v2/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/v2/generate_badge?boj=songfox00)](https://solved.ac/songfox00)

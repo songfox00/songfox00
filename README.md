@@ -11,7 +11,7 @@
 - GDSC Sookmyung Core Member(2021.9~2022.7)
 
 ### Skills
-<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 
 
 #

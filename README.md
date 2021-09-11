@@ -12,7 +12,7 @@
 
 ### Skills
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 
 #
 [![http://mazassumnida.wtf/api/v2/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/v2/generate_badge?boj=songfox00)](https://solved.ac/songfox00)

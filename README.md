@@ -26,7 +26,7 @@
 
 <h3><b>✨ Me ✨</b></h3>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songfox00@gmail.com)](mailto:songfox00@gmail.com) &nbsp;
+<!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songfox00@gmail.com)](mailto:songfox00@gmail.com) &nbsp;-->
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyemzzi_s)](https://www.instagram.com/hyemzzi_s) &nbsp;
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/songfox00)](https://www.facebook.com/songfox00) &nbsp;
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyemzzi.tistory.com/)](https://hyemzzi.tistory.com/) -->

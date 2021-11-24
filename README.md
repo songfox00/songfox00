@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,12,18,19,20,24,26,27,30&height=160&section=header&text=songfox00&animation=fadeIn&fontSize=50&fontAlign=30&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,12,18,19,20,24,26,27,30&height=155&section=header&text=songfox00&animation=fadeIn&fontSize=50&fontAlign=30&fontAlignY=30)
 
 <div align="center">
   
@@ -11,7 +11,9 @@
 
 ## 📚Experience 
 📌 **GDSC Sookmyung** Algorithm Core Member </br>
-🎉 Staff of **SMUPC**(1th Sookmyung University Programming Contest)
+🎉 Staff of **SMUPC**(1st Sookmyung University Programming Contest) </br>
+🎆 Vice-president of Algos </br>
+🔍 Member of Solux </br>
 
 <h2 align="center"><b>🛠 Skills 🛠</b></h2>
 <p align="center">

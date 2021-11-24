@@ -43,5 +43,6 @@
 </a>
 
 <h2 align="center"><b>Solved.ac Tier</b></h2> 
+
 [![http://mazassumnida.wtf/api/v2/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/v2/generate_badge?boj=songfox00)](https://solved.ac/songfox00)
 </div>

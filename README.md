@@ -30,12 +30,12 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a > &nbsp </p>
-
-<div align="center">
  
 ### My Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songfox00&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songfox00&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
 
 ### Solved.ac Tier
 [![http://mazassumnida.wtf/api/v2/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/v2/generate_badge?boj=songfox00)](https://solved.ac/songfox00)

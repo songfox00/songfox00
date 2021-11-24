@@ -28,7 +28,7 @@
 <!--[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/songfox00)](https://www.facebook.com/songfox00) &nbsp; -->
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyemzzi.tistory.com/)](https://hyemzzi.tistory.com/) -->
 
- </div></br>
+ </div>
  
 <h2 align="center"><b> My Status </b></h2>
 <div align="center">
@@ -38,7 +38,7 @@
 </a>
 <a href="https://github.com/anuraghazra/Top Langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songfox00&layout=compact&theme=dracula" height="170" />
-</a></br></br>
+</a>
 
 <h2 align="center"><b>Solved.ac Tier</b></h2> 
 [![http://mazassumnida.wtf/api/v2/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/v2/generate_badge?boj=songfox00)](https://solved.ac/songfox00)

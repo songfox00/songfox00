@@ -23,7 +23,8 @@
 
 ### Solved.ac Tier
 [![http://mazassumnida.wtf/api/v2/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/v2/generate_badge?boj=songfox00)](https://solved.ac/songfox00)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={songfox00})](https://solved.ac/{songfox00})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={songfox00})](https://solved.ac/{songfox00})
 <h3><b>✨ Me ✨</b></h3>
 
 <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songfox00@gmail.com)](mailto:songfox00@gmail.com) &nbsp;-->

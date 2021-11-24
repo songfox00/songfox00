@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,12,18,19,20,24,26,27,30&height=170&section=header&text=songfox00&animation=fadeIn&fontSize=50&fontAlign=30&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,12,18,19,20,24,26,27,30&height=160&section=header&text=songfox00&animation=fadeIn&fontSize=50&fontAlign=30&fontAlignY=30)
 
 <div align="center">
   

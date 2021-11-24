@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,12,18,19,20,24,26,27,30&height=160&section=header&text=songfox00&animation=fadeIn&fontSize=50&fontAlign=30&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,12,18,19,20,24,26,27,30&height=170&section=header&text=songfox00&animation=fadeIn&fontSize=50&fontAlign=30&fontAlignY=30)
 
 <div align="center">
   
@@ -36,10 +36,10 @@
 <div align="center">
   
 <a href="https://github.com/anuraghazra/Anurag's GitHub stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=songfox00&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=songfox00&show_icons=true&theme=dracula" height="170"/>
 </a>
 <a href="https://github.com/anuraghazra/Top Langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songfox00&layout=compact&theme=dracula" height="195" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songfox00&layout=compact&theme=dracula" height="170" />
 </a>
 
 ### Solved.ac Tier

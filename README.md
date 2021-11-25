@@ -44,5 +44,7 @@
 
 <h3 align="center"><b>Solved.ac Tier</b></h3> 
 
-[![http://mazassumnida.wtf/api/v2/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/v2/generate_badge?boj=songfox00)](https://solved.ac/songfox00)
+[![http://mazassumnida.wtf/api/v2/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/pastel/generate_badge?boj=songfox00)](https://solved.ac/songfox00)
 </div>
+<img src="http://mazandi.herokuapp.com/api?handle=songfox00&theme=cold"/>
+

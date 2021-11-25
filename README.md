@@ -3,7 +3,11 @@
 <div align="center">
   
 ## 👋Hi, I'm Hyemin 
-I’m interested in ```Android```, and I'm majoring in **computer science** at Sookmyung University
+🌱 I’m interested in 
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> &nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> &nbsp;
+
+🎓 I'm majoring in **computer science** at Sookmyung University
 
 ## 📚Experience 
 📌 **GDSC Sookmyung** Algorithm Core Member </br>

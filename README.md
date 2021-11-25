@@ -3,11 +3,7 @@
 <div align="center">
   
 ## 👋Hi, I'm Hyemin 
-🌱 I’m learning </br>
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> &nbsp;
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> </br>
-🎓 I'm majoring in **computer science** at Sookmyung University
+I’m interested in ```Android```, and I'm majoring in **computer science** at Sookmyung University
 
 ## 📚Experience 
 📌 **GDSC Sookmyung** Algorithm Core Member </br>

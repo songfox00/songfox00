@@ -12,8 +12,10 @@
 
 📌 **GDSC Sookmyung** Algorithm Core Member </br>
 🎉 Staff of **SMUPC**(1st Sookmyung University Programming Contest) </br>
+🎉 Examiner of **SMUPC**(2st Sookmyung University Programming Contest) </br>
 🎆 Vice-president of Algos </br>
 🔍 Member of Solux </br>
+🎯 App ICT Intern</br>
 
 <h3 align="center"><b>🛠 Skills 🛠</b></h3>
 <p align="center">

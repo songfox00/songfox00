@@ -23,11 +23,11 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a > &nbsp; 
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/></a > &nbsp; 
+<!--<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/></a > &nbsp; -->
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
+<!--<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a > &nbsp; 
-<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a > &nbsp;
+<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a > &nbsp; -->
 
 </p>
 
@@ -36,7 +36,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songfox00@gmail.com)](mailto:songfox00@gmail.com) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyemzzi_s)](https://www.instagram.com/hyemzzi_s) &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyemin-song-2b6160225/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) &nbsp;
-[![Tech Blog Badge](https://img.shields.io/badge/-Tistory-black?style=flat-square&logo=Blogger&logoColor=white&link=https://hyemzzi.tistory.com/)](https://hyemzzi.tistory.com/)
+<!--[![Tech Blog Badge](https://img.shields.io/badge/-Tistory-black?style=flat-square&logo=Blogger&logoColor=white&link=https://hyemzzi.tistory.com/)](https://hyemzzi.tistory.com/)-->
 
 <!--[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/songfox00)](https://www.facebook.com/songfox00) &nbsp; -->
 
@@ -55,5 +55,5 @@
 <h3 align="center"><b>Solved.ac Tier</b></h3>
 
 [![http://mazassumnida.wtf/api/v2/generate_badge?boj=%songfox00](http://mazassumnida.wtf/api/pastel/generate_badge?boj=songfox00)](https://solved.ac/songfox00) &nbsp;
-<img src="http://mazandi.herokuapp.com/api?handle=songfox00&theme=cold"/>
+<!--<img src="http://mazandi.herokuapp.com/api?handle=songfox00&theme=cold"/>-->
 </div>

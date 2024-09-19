@@ -31,7 +31,7 @@
 
 </p>
 
-<h3 align="center"><b>✨ Me ✨</b></h3>
+<h3 align="center"><b>✨ Me ✨</b></h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:songfox00@gmail.com)](mailto:songfox00@gmail.com) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyemzzi_s)](https://www.instagram.com/hyemzzi_s) &nbsp;

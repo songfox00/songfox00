@@ -43,7 +43,7 @@
  </div>
  
 <h3 align="center"><b> My Status </b></h3>
-<div align="center">
+<div align="center"> 
   
 <a href="https://github.com/anuraghazra/Anurag's GitHub stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=songfox00&show_icons=true&theme=dracula" height="170"/>

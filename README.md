@@ -49,7 +49,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=songfox00&show_icons=true&theme=dracula" height="170"/>
 </a>
 <a href="https://github.com/anuraghazra/Top Langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songfox00&layout=compact&theme=dracula" height="170" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songfox00&layout=compact&theme=dracula" height="170" /> 
 </a>
 
 <h3 align="center"><b>Solved.ac Tier</b></h3>
